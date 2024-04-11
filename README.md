@@ -1,6 +1,6 @@
 # Mi primer repositorio
 ## Hecho por Jason Einer
-### Licenciado en Física
+Licenciado en Física
 <!--
 **JASONEINER/jasoneiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
